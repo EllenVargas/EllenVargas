@@ -1,7 +1,2 @@
-- 👋 Hi, I’m @EllenVargas
-- 🌱 I’m currently learning basic html and css
-
-<!---
-EllenVargas/EllenVargas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1>SALVE RAPAZIADA<h1>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtdWRkC-qqvBDA36OzExhJw6SVBev2G-zFqYrAbq7WOeMUKYZXtC0oX147ePxLK4b2_tw&usqp=CAU">
